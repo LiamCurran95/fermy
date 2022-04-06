@@ -1,0 +1,33 @@
+{
+  "name": "fermy",
+  "version": "1.0.0",
+  "description": "Fermy back-end",
+  "main": "app.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiamCurran95/fermy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LiamCurran95/fermy/issues"
+  },
+  "homepage": "https://github.com/LiamCurran95/fermy#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "express-router": "^0.0.1",
+    "heroku": "^7.60.1",
+    "heroku-cli": "^7.0.9",
+    "mongodb": "^4.5.0",
+    "mongoose": "^6.2.10",
+    "nodemon": "^2.0.15"
+  }
+}
