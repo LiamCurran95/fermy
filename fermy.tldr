@@ -401,36 +401,38 @@
             "parentId": "page",
             "childIndex": 18,
             "point": [
-              1184,
-              -128
+              1200.96,
+              50
             ],
             "rotation": 0,
-            "bend": 0,
+            "bend": -0.00007794854958479111,
             "handles": {
               "start": {
                 "id": "start",
                 "index": 0,
                 "point": [
                   0,
-                  256
+                  78
                 ],
-                "canBind": true
+                "canBind": true,
+                "bindingId": "ff9793a8-2e79-44fa-0b72-2539d1580e38"
               },
               "end": {
                 "id": "end",
                 "index": 1,
                 "point": [
-                  0,
+                  5,
                   0
                 ],
-                "canBind": true
+                "canBind": true,
+                "bindingId": "9a70b03d-54df-44fc-3b8f-4d77be84615f"
               },
               "bend": {
                 "id": "bend",
                 "index": 2,
                 "point": [
-                  0,
-                  128
+                  2.5,
+                  39
                 ]
               }
             },
@@ -446,35 +448,6 @@
               "font": "script"
             },
             "label": "",
-            "labelPoint": [
-              0.5,
-              0.5
-            ]
-          },
-          "aa7f0341-3f14-454d-3eba-a002e9b92653": {
-            "id": "aa7f0341-3f14-454d-3eba-a002e9b92653",
-            "type": "rectangle",
-            "name": "Rectangle",
-            "parentId": "page",
-            "childIndex": 19,
-            "point": [
-              1056,
-              -320
-            ],
-            "size": [
-              265.87,
-              199.2
-            ],
-            "rotation": 0,
-            "style": {
-              "color": "black",
-              "size": "small",
-              "isFilled": false,
-              "dash": "draw",
-              "scale": 1,
-              "font": "script"
-            },
-            "label": "User Profile\nFermentation recipes\nEducation Page\nSafety Page\nFERMY swaps\nFind a recipe (barcode)",
             "labelPoint": [
               0.5,
               0.5
@@ -523,9 +496,480 @@
               "font": "script",
               "textAlign": "middle"
             }
+          },
+          "e8b94100-6bbc-438a-2693-2bf61db9a433": {
+            "id": "e8b94100-6bbc-438a-2693-2bf61db9a433",
+            "type": "rectangle",
+            "name": "Rectangle",
+            "parentId": "page",
+            "childIndex": 25,
+            "point": [
+              1440,
+              96
+            ],
+            "size": [
+              416,
+              544
+            ],
+            "rotation": 0,
+            "style": {
+              "color": "black",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script"
+            },
+            "label": "",
+            "labelPoint": [
+              0.5,
+              0.5
+            ]
+          },
+          "7d3c730d-b7bc-4874-1c8b-a838b5200a0b": {
+            "id": "7d3c730d-b7bc-4874-1c8b-a838b5200a0b",
+            "type": "text",
+            "name": "Text",
+            "parentId": "page",
+            "childIndex": 26,
+            "point": [
+              1600,
+              640
+            ],
+            "rotation": 0,
+            "text": "User Profile",
+            "style": {
+              "color": "black",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "5aedb705-2b84-46b0-2d80-31897e9dc139": {
+            "id": "5aedb705-2b84-46b0-2d80-31897e9dc139",
+            "type": "rectangle",
+            "name": "Rectangle",
+            "parentId": "page",
+            "childIndex": 27,
+            "point": [
+              1696,
+              128
+            ],
+            "size": [
+              135.61,
+              33.78
+            ],
+            "rotation": 0,
+            "style": {
+              "color": "black",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script"
+            },
+            "label": "Navbar",
+            "labelPoint": [
+              0.5,
+              0.5
+            ]
+          },
+          "719642aa-7e43-4782-217d-604dcf0c6636": {
+            "id": "719642aa-7e43-4782-217d-604dcf0c6636",
+            "type": "rectangle",
+            "name": "Rectangle",
+            "parentId": "page",
+            "childIndex": 28,
+            "point": [
+              1472,
+              224
+            ],
+            "size": [
+              171.82,
+              33.78
+            ],
+            "rotation": 0,
+            "style": {
+              "color": "black",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script"
+            },
+            "label": "Ongoing ferments",
+            "labelPoint": [
+              0.5,
+              0.5
+            ]
+          },
+          "85c67ceb-7571-44cf-0e81-8b857c4c1b2f": {
+            "id": "85c67ceb-7571-44cf-0e81-8b857c4c1b2f",
+            "type": "rectangle",
+            "name": "Rectangle",
+            "parentId": "page",
+            "childIndex": 30,
+            "point": [
+              1472,
+              288
+            ],
+            "size": [
+              355.07,
+              324.12
+            ],
+            "rotation": 0,
+            "style": {
+              "color": "black",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script"
+            },
+            "label": "",
+            "labelPoint": [
+              0.5,
+              0.5
+            ]
+          },
+          "8078cbab-4222-428e-1c26-a45efb1dfb5a": {
+            "id": "8078cbab-4222-428e-1c26-a45efb1dfb5a",
+            "type": "rectangle",
+            "name": "Rectangle",
+            "parentId": "page",
+            "childIndex": 31,
+            "point": [
+              1504,
+              320
+            ],
+            "size": [
+              292.11,
+              68.03
+            ],
+            "rotation": 0,
+            "style": {
+              "color": "black",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script"
+            },
+            "label": "Ferment A",
+            "labelPoint": [
+              0.5,
+              0.5
+            ]
+          },
+          "9b14003b-a671-44df-0636-15a62580435e": {
+            "id": "9b14003b-a671-44df-0636-15a62580435e",
+            "type": "rectangle",
+            "name": "Rectangle",
+            "parentId": "page",
+            "childIndex": 32,
+            "point": [
+              1504,
+              416
+            ],
+            "size": [
+              292.11,
+              68.03
+            ],
+            "rotation": 0,
+            "style": {
+              "color": "black",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script"
+            },
+            "label": "Scrolls alphabetically",
+            "labelPoint": [
+              0.5,
+              0.5
+            ]
+          },
+          "c86e95ca-5bfc-4d53-04b2-c5330d5f0ca9": {
+            "id": "c86e95ca-5bfc-4d53-04b2-c5330d5f0ca9",
+            "type": "rectangle",
+            "name": "Rectangle",
+            "parentId": "page",
+            "childIndex": 33,
+            "point": [
+              1504,
+              512
+            ],
+            "size": [
+              292.11,
+              68.03
+            ],
+            "rotation": 0,
+            "style": {
+              "color": "black",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script"
+            },
+            "label": "Filter options but shows all",
+            "labelPoint": [
+              0.5,
+              0.5
+            ]
+          },
+          "44c4b8be-2f20-457f-3f33-d37564bcf828": {
+            "id": "44c4b8be-2f20-457f-3f33-d37564bcf828",
+            "type": "rectangle",
+            "name": "Rectangle",
+            "parentId": "page",
+            "childIndex": 34,
+            "point": [
+              1664,
+              224
+            ],
+            "size": [
+              171.82,
+              33.78
+            ],
+            "rotation": 0,
+            "style": {
+              "color": "black",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script"
+            },
+            "label": "Change view",
+            "labelPoint": [
+              0.5,
+              0.5
+            ]
+          },
+          "00116043-a686-479f-0f0c-cffd4c09de8b": {
+            "id": "00116043-a686-479f-0f0c-cffd4c09de8b",
+            "type": "arrow",
+            "name": "Arrow",
+            "parentId": "page",
+            "childIndex": 35,
+            "point": [
+              1744.86,
+              70
+            ],
+            "rotation": 0,
+            "bend": 0,
+            "handles": {
+              "start": {
+                "id": "start",
+                "index": 0,
+                "point": [
+                  0,
+                  154
+                ],
+                "canBind": true,
+                "bindingId": "6cec224e-bf36-4e69-3bfd-1ecfce671ffb"
+              },
+              "end": {
+                "id": "end",
+                "index": 1,
+                "point": [
+                  31.91,
+                  0
+                ],
+                "canBind": true,
+                "bindingId": "0ec9c309-e4a1-4da6-17bf-4a25e5b4ec90"
+              },
+              "bend": {
+                "id": "bend",
+                "index": 2,
+                "point": [
+                  15.96,
+                  77
+                ]
+              }
+            },
+            "decorations": {
+              "end": "arrow"
+            },
+            "style": {
+              "color": "black",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1
+            },
+            "label": "",
+            "labelPoint": [
+              0.5,
+              0.5
+            ]
+          },
+          "a739395d-5e23-4d3b-30bf-75cf61f641ac": {
+            "id": "a739395d-5e23-4d3b-30bf-75cf61f641ac",
+            "type": "text",
+            "name": "Text",
+            "parentId": "page",
+            "childIndex": 36,
+            "point": [
+              1696,
+              -32
+            ],
+            "rotation": 0,
+            "text": "List View\nCalendar View\nCategory filter",
+            "style": {
+              "color": "black",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "3242224d-2632-4bc7-11db-f08db628ee19": {
+            "id": "3242224d-2632-4bc7-11db-f08db628ee19",
+            "type": "text",
+            "name": "Text",
+            "parentId": "page",
+            "childIndex": 37,
+            "point": [
+              1063.5,
+              -192
+            ],
+            "rotation": 0,
+            "text": "User Profile\n-Active Ferments\n- My recipes / Saved recipes \nFermentation recipes\nFERMY swaps\nFind a recipe (barcode)\nEducation & Safety\nTools",
+            "style": {
+              "color": "black",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "274e3efc-a648-4bc5-2724-97256b5b07fc": {
+            "id": "274e3efc-a648-4bc5-2724-97256b5b07fc",
+            "type": "text",
+            "name": "Text",
+            "parentId": "page",
+            "childIndex": 38,
+            "point": [
+              876,
+              0
+            ],
+            "rotation": 0,
+            "text": "Education  & Safety\nTools (calculators)",
+            "style": {
+              "color": "blue",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "9c5a26ea-6add-43e9-1f1d-1665c21e61fb": {
+            "id": "9c5a26ea-6add-43e9-1f1d-1665c21e61fb",
+            "type": "text",
+            "name": "Text",
+            "parentId": "page",
+            "childIndex": 39,
+            "point": [
+              864,
+              -64
+            ],
+            "rotation": 0,
+            "text": "FERMY swaps\nFind a recipe (barcode)",
+            "style": {
+              "color": "orange",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "dd1b7cc9-d58d-4a3b-24d9-1b1a840c4f08": {
+            "id": "dd1b7cc9-d58d-4a3b-24d9-1b1a840c4f08",
+            "type": "text",
+            "name": "Text",
+            "parentId": "page",
+            "childIndex": 40,
+            "point": [
+              864,
+              -128
+            ],
+            "rotation": 0,
+            "text": "User Profile\nFermentation recipes",
+            "style": {
+              "color": "violet",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
           }
         },
-        "bindings": {}
+        "bindings": {
+          "9a70b03d-54df-44fc-3b8f-4d77be84615f": {
+            "id": "9a70b03d-54df-44fc-3b8f-4d77be84615f",
+            "type": "arrow",
+            "fromId": "7d3d0a8f-ee7b-470b-0775-951a24f00835",
+            "toId": "3242224d-2632-4bc7-11db-f08db628ee19",
+            "handleId": "end",
+            "point": [
+              0.56,
+              0.5
+            ],
+            "distance": 8
+          },
+          "ff9793a8-2e79-44fa-0b72-2539d1580e38": {
+            "id": "ff9793a8-2e79-44fa-0b72-2539d1580e38",
+            "type": "arrow",
+            "fromId": "7d3d0a8f-ee7b-470b-0775-951a24f00835",
+            "toId": "14c48657-6bf9-4a03-2feb-0e54569f89af",
+            "handleId": "start",
+            "point": [
+              0.57,
+              0.58
+            ],
+            "distance": 16
+          },
+          "6cec224e-bf36-4e69-3bfd-1ecfce671ffb": {
+            "id": "6cec224e-bf36-4e69-3bfd-1ecfce671ffb",
+            "type": "arrow",
+            "fromId": "00116043-a686-479f-0f0c-cffd4c09de8b",
+            "toId": "44c4b8be-2f20-457f-3f33-d37564bcf828",
+            "handleId": "start",
+            "point": [
+              0.45,
+              0.62
+            ],
+            "distance": 16
+          },
+          "0ec9c309-e4a1-4da6-17bf-4a25e5b4ec90": {
+            "id": "0ec9c309-e4a1-4da6-17bf-4a25e5b4ec90",
+            "type": "arrow",
+            "fromId": "00116043-a686-479f-0f0c-cffd4c09de8b",
+            "toId": "a739395d-5e23-4d3b-30bf-75cf61f641ac",
+            "handleId": "end",
+            "point": [
+              0.63,
+              0.5
+            ],
+            "distance": 8
+          }
+        }
       }
     },
     "pageStates": {

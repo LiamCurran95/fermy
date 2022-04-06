@@ -1,0 +1,6 @@
+recipe.comments.comment_id = generated at front end
+
+//github.com/saran-surya/Mongo-Image-Converter
+to add images to mongodb
+
+figure out activeferments schema
