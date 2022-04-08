@@ -2,7 +2,6 @@ require("dotenv").config();
 const express = require("express");
 const cors = require("cors");
 const app = express();
-const atlas = process.env.TEST_ATLAS_CONNECTION;
 
 app.use(cors());
 app.use(express.json());
